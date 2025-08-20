@@ -74,9 +74,4 @@ python "c:\Users\Ranveer\Desktop\WRIS_WELL_Management\python\WRIS_well_GUI.py"
 - Outlier removal uses IQR method (1.5×IQR).
 
 ## License
-CC0
-- MK implementation uses a normal approximation (tie corrections omitted); use specialized libraries for rigorous statistical needs.
-- Outlier removal uses IQR method (1.5×IQR).
-
-## License
 CC0 Global
