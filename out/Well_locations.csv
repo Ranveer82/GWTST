@@ -1,0 +1,51 @@
+WellID,Latt,Long,Site,Data_Acquisition,Aq_type,Well_depth,Data_From,Data_to
+W1,30.7597,76.8042,Bhujal bhawan pz- deep,Manual,Confined,265,2012-11-05,2024-01-01
+W2,30.7083,76.7944,Burail,Manual,Unconfined,9.8,1996-01-05,2024-01-01
+W3,30.7116,76.7844,Chandigarh chandigarh chandigarh csio d,Telemetric,-,-,2023-05-15,2025-07-20
+W4,30.7119,76.7849,Chandigarh chandigarh chandigarh csio-combined,Telemetric,-,-,2023-05-16,2025-06-23
+W5,30.7119,76.7842,Chandigarh chandigarh chandigarh csio-s,Telemetric,-,-,2023-05-16,2025-06-23
+W6,30.7522,76.7187,Chandigarh chandigarh chandigarh maloya pz- deep,Telemetric,-,-,2023-05-16,2025-07-22
+W7,30.6889,76.7919,Chandigarh chandigarh chandigarh new industrial area,Telemetric,-,-,2023-05-16,2025-07-22
+W8,30.7269,76.8031,"Chandigarh chandigarh chandigarh sec-27, ar well",Telemetric,-,-,2023-05-17,2025-07-22
+W9,30.7495,76.7841,Chandigarh chandigarh chandigarh sect 10c (d),Telemetric,-,-,2023-05-16,2025-06-11
+W10,30.7039,76.7761,Chandigarh chandigarh chandigarh sect 31d (d),Telemetric,-,-,2023-05-16,2025-07-22
+W11,30.7038,76.7759,Chandigarh chandigarh chandigarh sect 31d (s),Telemetric,-,-,2023-05-16,2025-07-22
+W12,30.7379,76.7429,Chandigarh chandigarh chandigarh sect 37d (d),Telemetric,-,-,2023-05-16,2025-06-23
+W13,30.7381,76.7432,Chandigarh chandigarh chandigarh sect 37d (s),Telemetric,-,-,2023-05-16,2025-06-23
+W14,30.744,76.7232,Chandigarh chandigarh chandigarh sect 39d (d),Telemetric,-,-,2023-05-16,2025-07-21
+W15,30.7102,76.7482,Chandigarh chandigarh chandigarh sect 44d (d),Telemetric,-,-,2023-05-16,2025-07-22
+W16,30.7102,76.7485,Chandigarh chandigarh chandigarh sect 44d (s),Telemetric,-,-,2023-05-16,2025-05-24
+W17,30.7404,76.7303,Chandigarh chandigarh chandigarh sector-39 (imd)(s),Telemetric,-,-,2023-05-16,2025-07-22
+W18,30.7407,76.7307,Chandigarh chandigarh chandigarh sector-39 (imd)(s),Telemetric,-,-,2023-05-16,2025-07-22
+W19,30.703,76.7707,Chandigarh chandigarh chandigarh sector-46 (b),Telemetric,-,-,2023-05-16,2025-07-22
+W20,30.7026,76.7677,Chandigarh chandigarh chandigarh sector-46 (d),Telemetric,-,-,2023-05-16,2025-07-22
+W21,30.7125,76.7853,Csio-combined,Manual,Unconfined,146.5,2000-08-25,2023-01-01
+W22,30.7125,76.7853,Csio-deep,Manual,Semi-confined,144,2012-11-05,2023-06-01
+W23,30.7125,76.7853,Csio-s,Manual,Unconfined,69,2012-11-05,2024-01-01
+W24,30.7542,76.7194,Maloya pz-deep,Manual,Confined,150,2013-08-25,2024-01-01
+W25,30.7083,76.7336,Maloya,Manual,Unconfined,202,2016-01-05,2016-11-05
+W26,30.6917,76.7861,New indust area,Manual,Unconfined,119,1997-01-05,2024-01-01
+W27,30.7597,76.8042,"Sec-27, ar well",Manual,Unconfined,150,2005-08-25,2023-01-01
+W28,30.7594,76.8042,"Sec-27, ar well",Manual,-,250,2012-11-05,2020-01-10
+W29,30.7597,76.8042,"Sec-27, cgwb building",Manual,-,265,2014-08-25,2022-11-01
+W30,30.75,76.7861,Sect 10c (d),Manual,Unconfined,100,1996-01-05,2024-01-01
+W31,30.7556,76.7944,Sect 10c,Manual,Unconfined,333.6,2008-01-05,2024-01-01
+W32,30.75,76.7861,Sect 12 (d),Manual,Confined,306,2012-11-05,2020-08-25
+W33,30.725,76.7736,Sect 21d (d),Manual,Unconfined,120,1996-01-05,2024-01-01
+W34,30.725,76.7736,Sect 21d (s),Manual,Unconfined,15,2012-11-05,2024-01-01
+W35,30.7375,76.7875,Sect 3,Manual,-,70,1999-08-25,2018-10-20
+W36,30.7056,76.7806,Sect 31d (d),Manual,Unconfined,100,1997-01-05,2024-01-01
+W37,30.7056,76.7806,Sect 31d (s),Manual,Unconfined,19,2012-11-05,2024-01-01
+W38,30.7375,76.7431,Sect 37d (d),Manual,Semi-confined,120.57,1999-05-15,2024-01-01
+W39,30.7375,76.7431,Sect 37d (s),Manual,Unconfined,18,2012-11-05,2024-01-01
+W40,30.7375,76.7278,Sect 39d (d),Manual,Semi-confined,460,1999-08-25,2023-01-01
+W41,30.7375,76.7278,Sect 39d (s),Manual,Unconfined,16.5,2012-11-05,2024-01-01
+W42,30.7097,76.8014,Sect 44d (d),Manual,Confined,121,1996-01-05,2024-01-01
+W43,30.7097,76.8014,Sect 44d (s),Manual,Unconfined,12,2012-11-05,2024-01-01
+W44,31.3096,76.7633,Sector 10 liesure valley,Telemetric,-,333,2023-09-01,2025-07-17
+W45,30.7083,76.7333,Sector fifty two pzm,Manual,-,162,2012-11-05,2020-08-25
+W46,30.7404,76.7303,Sector-39 (imd)-s,Manual,-,-,2023-01-01,2024-01-01
+W47,30.7404,76.7303,Sector-39 (imd)-s,Manual,-,-,2023-01-01,2023-08-20
+W48,30.7033,76.7694,Sector-46 (shallow),Manual,Unconfined,25,2002-05-15,2024-01-01
+W49,30.7033,76.7694,Sector-46(deep),Manual,Confined,179,2012-11-05,2024-01-01
+W50,30.7033,76.7694,Sector-46(vs),Manual,Unconfined,12,2017-01-05,2022-11-01
